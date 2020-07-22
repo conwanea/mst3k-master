@@ -1,0 +1,9 @@
+{
+  title: @episode.title,
+  episode_number: @episode.episode_number,
+  genre: @episode.genre,
+  synopsis: @episode.synopsis,
+  air_date: @episode.air_date,
+  movie_poster: @episode.movie_poster,
+  episode_poster: @episode.episode_poster,
+}
