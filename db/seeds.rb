@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Episode.create(title: "The Green Slime", air_date: "Pilot", genre: "Drama, Horror, Sci-Fi", synopsis: "Earth-orbiting inventor Joel Hodgson invites us to watch The Green Slime (1968) with him and his robot friends.", episode_number: 100)
-Episode.create(title: "Invaders fromthe Deep", air_date: "Nov. 24, 1988", genre: "Sci-Fi", synopsis: "In between tending to some sick vacuum-flowers, Joel Hodgson and his robot buddy Crow begin their first movie-riffing experiment aboard the Satellite of Love.", episode_number: 101)
+Episode.create(title: "Invaders from the Deep", air_date: "Nov. 24, 1988", genre: "Sci-Fi", synopsis: "In between tending to some sick vacuum-flowers, Joel Hodgson and his robot buddy Crow begin their first movie-riffing experiment aboard the Satellite of Love.", episode_number: 101)
 Episode.create(title: "Revenge of the Mysterons from Mars", air_date: "Nov. 24, 1988", genre: "Action, Family, Sci-Fi", synopsis: "Joel and his faithful robot companions celebrate Thanksgiving by scarfing down a chopped up Captain Scarlet serial repackaged as a TV film.", episode_number: 102)
 Episode.create(title: "Star Force: Fugitive Alien II", air_date: "Nov. 27, 1988", genre: "Sci-Fi", synopsis: "Today's experiment features real humans from Japan and a budget that must've been tens of dollars.", episode_number: 103)
 Episode.create(title: "Gamera vs. Barugon", air_date: "Dec. 4, 1988", genre: "Action, Fantasy, Sci-Fi", synopsis: "The historic first meeting between Gamera and the crew of the Satellite of Love.", episode_number: 104)
